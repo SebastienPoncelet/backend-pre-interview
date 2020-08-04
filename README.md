@@ -46,6 +46,18 @@ Step 2 - Find the sum of the first three numbers in the top row (from the left).
 
 Step 3 - Find this sum for each of the 50 puzzles
 
+## Instructions
+
+To launch the program simply run the solver.py file as:
+```
+$ python3 solver.py
+```
+
+The solved grids and the their respective sum of their first three numbers are written in the sudoku_solutions.txt file. The latter will be generated automatically.
+
+## Explaination
+
+As per the information provided in the ```Target``` section, since each sudoku grid provided in the ```sudoku.txt``` has a unique solution, the code does not test to see if a grid has no solution as it could not happen in this challenge.
 
 ### Requirements
 
