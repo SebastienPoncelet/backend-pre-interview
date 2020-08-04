@@ -52,12 +52,12 @@ To launch the program simply run the solver.py file as:
 ```
 $ python3 solver.py
 ```
-
+e
 The solved grids and the their respective sum of their first three numbers are written in the sudoku_solutions.txt file. The latter will be generated automatically.
 
 ## Explaination
 
-As per the information provided in the ```Target``` section, since each sudoku grid provided in the ```sudoku.txt``` has a unique solution, the code does not test to see if a grid has no solution as it could not happen in this challenge.
+As per the information provided in the ```Target``` section, since each sudoku grid provided in the ```sudoku.txt``` has a unique solution. Consequently the code was kept simple and straight to the point and does not test to see if a grid has no solution as it could not happen in this challenge.
 
 ### Requirements
 
